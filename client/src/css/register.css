@@ -1,0 +1,7 @@
+.regform{
+    display: flex;
+    height: 70vh;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

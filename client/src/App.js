@@ -1,7 +1,10 @@
+import Register from "./components/register";
 
-function App(){
-  return(
-    <h1>heading app</h1>
-  )
+function App() {
+  return (
+    <>
+      <Register />
+    </>
+  );
 }
 export default App;
