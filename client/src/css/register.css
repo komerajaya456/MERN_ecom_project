@@ -1,7 +1,16 @@
-.regform{
+.regformdiv{
     display: flex;
-    height: 70vh;
+    /* height: 30vh; */
     justify-content: center;
     flex-direction: column;
     align-items: center;
+   }
+
+
+.regformtag{
+    border: 1px solid #000; /* You can customize the border style and color */
+    padding: 30px; /* Add padding for better appearance */
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 50px;
 }
